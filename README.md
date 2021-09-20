@@ -1,2 +1,5 @@
 # hello-world
-Just another repsitory
+
+Hello everyone!
+
+Tristan here, I like playing videogames.
